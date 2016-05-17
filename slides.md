@@ -50,6 +50,17 @@ _Goto_: http://jacobburenstam.com/agile-growth
 
 ---
 
+<div data-poller="js-agile">
+  <p>Who here does agile?</p>
+  <button data-answer>Yes</button>
+  <button data-answer>Some parts</button>
+  <button data-answer>No</button>
+  <hr>
+  <div data-chart data-refresh="5"></div>
+</div>
+
+---
+
 ## Agenda
 
 * Talk....... :zzz:
@@ -84,6 +95,54 @@ _Goto_: http://jacobburenstam.com/agile-growth
 __or__
 
 :chart_with_downwards_trend: :pill: :hocho: :gun: :bomb:
+
+---
+
+# Definition
+
+> Growth refers to a positive change in size, often over a period of time.
+> It can perpetuate endlessly, for example, as detailed by some theories of the ultimate fate of the universe.
+>
+> Wikipedia
+
+---
+
+### How awesome is that definition?
+
+---
+
+* Growth >>> Ultimate fate of the universe
+
+---
+
+* Thats what we should sell our customer :exclamation: :trollface:
+
+---
+
+# Factors
+
+* :zap: From idea :bulb: to market
+* :alarm_clock: Respond to change
+* :repeat: Sync development and marketing etc
+* :chart_with_upwards_trend: Measure
+
+---
+
+## Only as good as
+## the weakest (slowest) link
+
+:turtle:
+
+* Slow marketing department
+* Slow organisation development
+* Slow customer
+* Slow development
+
+---
+
+## Challenge:
+
+## Everybody needs to be onboard
 
 ---
 
